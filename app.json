@@ -1,0 +1,5 @@
+{
+  "name": "Heroic Static",
+  "description": "Static Server",
+  "keywords": ["node", "express", "static"]
+}
